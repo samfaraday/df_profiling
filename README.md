@@ -14,7 +14,7 @@ Data Frame Profiling - A package that allows to easily profile your dataframe,
                    <li> Min Value</li>
                    <li>Quartiles: 1st, 3rd</li>
                    <li>Median</li>
-                   <li>IQR - Interqurtile Range</li>
+                   <li>IQR - Interquartile Range</li>
                    <li>Lower Bound Limits</li>
                    <li>Upper Bound Limits</li>
                    <li> Max Value</li>
