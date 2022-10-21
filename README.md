@@ -21,4 +21,4 @@ Data Frame Profiling - A package that allows to easily profile your dataframe,
                    <li> Unique Values</li>
                    <li> Spot Potential Outliers</li></ul>
                    <p><ul> <b>Save / Export your Analyses</b> 
-                   <p><li> DF_Profiling.profiling("my_file.csv").to_csv("my_profiling.csv")</li></ul>
+                   <li> DF_Profiling.profiling("my_file.csv").to_csv("my_profiling.csv")</li></ul>
